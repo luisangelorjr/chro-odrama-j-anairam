@@ -1,2 +1,2 @@
 # chro-odrama-j-anairam
-rapositorio para automatizacao de controle de ponto
+CHRO Odrama J. Anairam - repositorio para automatizacao de controle de ponto
