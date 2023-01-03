@@ -58,6 +58,10 @@ const password = environment.password;
     await page.waitForSelector('.iTejjP');
     await page.click('.iTejjP');
 
+    console.log('before waiting');
+    await delay(2000);
+    console.log('after waiting');
+
     await page.screenshot({ path: `screenshots/${new Date().toISOString()}.jpg`, type: 'jpeg', quality: 90 });
 
     console.log("THE END");
