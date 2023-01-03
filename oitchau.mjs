@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-import { environment } from './enviroments';
+import { environment } from './enviroments.mjs';
 
 const headlessMode = false;
 
