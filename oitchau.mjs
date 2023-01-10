@@ -59,8 +59,8 @@ const password = environment.password;
         fs.mkdirSync(`screenshots/${today}`);
     }
 
-    await page.waitForSelector('.iTejjP');
-    await page.click('.iTejjP');
+    await page.waitForSelector('.Button-styles_Button__1ZbWt');
+    await page.click('.Button-styles_Button__1ZbWt');
 
     await delay(2000, "Aguardando tela com ponto marcado da oitchau para print");
 
