@@ -1,6 +1,6 @@
 {
   "name": "chro-odrama-j-anairam",
-  "version": "0.0.1",
+  "version": "0.1.3",
   "description": "repositorio para automatizacao de controle de ponto",
   "main": "index.js",
   "scripts": {
