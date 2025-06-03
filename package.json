@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/luisangelorjr/chro-odrama-j-anairam#readme",
   "dependencies": {
-    "puppeteer": "^19.4.1"
+    "puppeteer": "^24.10.0"
   }
 }
